@@ -9,4 +9,4 @@
 - Setup your project in minutes
 
 [GitHub](https://github.com/marcusats/Cabal-ETHNYC)
-[Getting Started](#quickstart)
+[Getting Started](quickstart.md)

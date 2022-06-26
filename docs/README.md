@@ -4,21 +4,20 @@
 
 ## What it is
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+Cabal gives power to Users by allowing them to be in control of the data they share. As a developer you can utilize our Cabal SDK in order to create a log in service, encrypted data exchange, or data marketplace.
 
 See the [Quick start](quickstart.md) guide for more details.
 
 ## Features
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+- OAuth built for Web3
+- Cabal Developer SDK
+- Standardized authentication flow for Web2 & Web3
+
+## Why Cabal is a good idea?
+
+Cabal allows for a way to bring trust into data exchanges between Users and any company requesting data. Users will have the ability to revoke access to a company obtaining its data at a given notice.
 
 ## Examples
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
+Check out the [Cabal Client Demo](https://github.com/marcusats/Cabal-ETHNYC/tree/main/client) to see Cabal in use.
