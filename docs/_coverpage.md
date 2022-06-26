@@ -1,6 +1,6 @@
 ![logo](cabalLogo.png)
 
-# Oath <small>0.0.1</small>
+# Cabal <small>0.0.1</small>
 
 > Your sensitive data matters.
 
